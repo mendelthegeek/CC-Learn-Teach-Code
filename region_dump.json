@@ -1,0 +1,984 @@
+{
+  "regions": [
+    {
+      "id": 4,
+      "name": "sandiego",
+      "full_name": "San Diego",
+      "motd": "Click 'Events' to see nearby IFPA sanctioned events!",
+      "lat": "32.7162",
+      "lon": "-117.1591",
+      "state": "California",
+      "effective_radius": 40
+    },
+    {
+      "id": 122,
+      "name": "cheyenne",
+      "full_name": "Cheyenne",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "41.141884",
+      "lon": "-104.796428",
+      "state": "Wyoming",
+      "effective_radius": 10
+    },
+    {
+      "id": 121,
+      "name": "wichita",
+      "full_name": "Wichita",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "37.684617",
+      "lon": "-97.322969",
+      "state": "Kansas",
+      "effective_radius": 15
+    },
+    {
+      "id": 102,
+      "name": "memphis",
+      "full_name": "Memphis",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "35.131464",
+      "lon": "-89.948697",
+      "state": "Tennessee",
+      "effective_radius": 30
+    },
+    {
+      "id": 100,
+      "name": "montreal",
+      "full_name": "Montreal",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "45.51288",
+      "lon": "-73.563726",
+      "state": "Quebec",
+      "effective_radius": 20
+    },
+    {
+      "id": 83,
+      "name": "boise",
+      "full_name": "Boise",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "43.606979",
+      "lon": "-116.193413",
+      "state": "Idaho",
+      "effective_radius": 35
+    },
+    {
+      "id": 80,
+      "name": "rhode-island",
+      "full_name": "Rhode Island",
+      "motd": "If you have a keen eye for clean data, and want to be an admin for this region, please contact us!",
+      "lat": "41.6986442",
+      "lon": "-71.630214",
+      "state": "Rhode Island",
+      "effective_radius": 35
+    },
+    {
+      "id": 134,
+      "name": "west-oz",
+      "full_name": "Western Australia",
+      "motd": "To help keep Pinball Map running, consider a donation! https://pinballmap.com/donate",
+      "lat": "-31.967754",
+      "lon": "115.917148",
+      "state": "Australia",
+      "effective_radius": 200
+    },
+    {
+      "id": 72,
+      "name": "bellingham",
+      "full_name": "Bellingham, WA",
+      "motd": "Happy pinballing in the City of Subdued Excitement!",
+      "lat": "48.75235",
+      "lon": "-122.471222",
+      "state": "Washington",
+      "effective_radius": 10
+    },
+    {
+      "id": 69,
+      "name": "richmond",
+      "full_name": "Richmond",
+      "motd": "Play in the monthly location challenge on T2 at Bailey's West End post your high score for the month of May on the RVAPinball facebook page to win",
+      "lat": "37.54094",
+      "lon": "-77.43729",
+      "state": "Virginia",
+      "effective_radius": 25
+    },
+    {
+      "id": 64,
+      "name": "philadelphia",
+      "full_name": "Philadelphia",
+      "motd": "The Philly Pinball Club lives! Details at http://phillypinball.club/",
+      "lat": "39.953",
+      "lon": "-75.1692",
+      "state": "Pennsylvania",
+      "effective_radius": 45
+    },
+    {
+      "id": 63,
+      "name": "centralpa",
+      "full_name": "Central Pennsylvania",
+      "motd": "",
+      "lat": "40.3086",
+      "lon": "-76.9373",
+      "state": "Pennsylvania",
+      "effective_radius": 80
+    },
+    {
+      "id": 44,
+      "name": "reno",
+      "full_name": "Reno",
+      "motd": "Please add any machines you know of that are not already on the list",
+      "lat": "39.52932",
+      "lon": "-119.81374",
+      "state": "Nevada",
+      "effective_radius": 40
+    },
+    {
+      "id": 43,
+      "name": "eugene",
+      "full_name": "Eugene & Springfield, OR",
+      "motd": "Pinball Knights Double Elimination Tourney. All are welcome! Wednesday nights 8pm at Blairalley Vintage Arcade https://www.facebook.com/blairallyarcade",
+      "lat": "44.05254",
+      "lon": "-123.08885",
+      "state": "Oregon",
+      "effective_radius": 20
+    },
+    {
+      "id": 28,
+      "name": "champaign",
+      "full_name": "Champaign",
+      "motd": "Guardians of the Galaxy now at Quality Beer in Downtown Champaign! ",
+      "lat": "40.1166",
+      "lon": "-88.24391",
+      "state": "Illinois",
+      "effective_radius": 45
+    },
+    {
+      "id": 89,
+      "name": "manitoba",
+      "full_name": "Manitoba",
+      "motd": "manitobapinball.com",
+      "lat": "49.892436",
+      "lon": "-97.173059",
+      "state": "Manitoba",
+      "effective_radius": 200
+    },
+    {
+      "id": 20,
+      "name": "toronto",
+      "full_name": "Toronto",
+      "motd": "Do you want to help out as an admin for this Toronto Pinball Map? We could use your help. Let us know!",
+      "lat": "43.65617",
+      "lon": "-79.3861",
+      "state": "Ontario",
+      "effective_radius": 25
+    },
+    {
+      "id": 119,
+      "name": "minnesota",
+      "full_name": "Minnesota",
+      "motd": "Check out the IFPA calendar for weekly pinball events near you!  https://www.ifpapinball.com/calendar/",
+      "lat": "44.93847",
+      "lon": "-93.20078",
+      "state": "Minnesota",
+      "effective_radius": 150
+    },
+    {
+      "id": 10,
+      "name": "colorado",
+      "full_name": "Colorado",
+      "motd": "Colorado pinball news, resources, tournaments and events calendar can be found at the Colorado Pinball Collective website: http://colorado-pinball.com",
+      "lat": "39.7378",
+      "lon": "-104.9877",
+      "state": "Colorado",
+      "effective_radius": 200
+    },
+    {
+      "id": 92,
+      "name": "ca-central",
+      "full_name": "California Central Coast",
+      "motd": "Welcome to the California Central Coast! Join me in updating Locations and Pins for our beautiful region. Check out the local League and Events! Let's play some Pinball!",
+      "lat": "36.6004",
+      "lon": "-121.891091",
+      "state": "California",
+      "effective_radius": 80
+    },
+    {
+      "id": 2,
+      "name": "bc",
+      "full_name": "British Columbia",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "49.2633",
+      "lon": "-123.119",
+      "state": "British Columbia",
+      "effective_radius": 80
+    },
+    {
+      "id": 118,
+      "name": "ca-valley",
+      "full_name": "California Central Valley",
+      "motd": "Welcome to the California Central Valley! Join me in updating Locations and Pins for our beautiful region. Check out the local League and Events! Let's play some Pinball!",
+      "lat": "35.374288",
+      "lon": "-119.058151",
+      "state": "California",
+      "effective_radius": 80
+    },
+    {
+      "id": 105,
+      "name": "indiana",
+      "full_name": "Indiana",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "39.7262",
+      "lon": "-86.1481",
+      "state": "Indiana",
+      "effective_radius": 70
+    },
+    {
+      "id": 124,
+      "name": "brisbane",
+      "full_name": "Brisbane / Gold Coast",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "-27.472999",
+      "lon": "153.027107",
+      "state": "Australia",
+      "effective_radius": 100
+    },
+    {
+      "id": 81,
+      "name": "connecticut",
+      "full_name": "Connecticut",
+      "motd": "If you have a keen eye for clean data, and want to be an admin for this region, please contact us!",
+      "lat": "41.6473962",
+      "lon": "-72.9696514",
+      "state": "Connecticut",
+      "effective_radius": 55
+    },
+    {
+      "id": 117,
+      "name": "nashville",
+      "full_name": "Nashville",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "36.15876",
+      "lon": "-86.774915",
+      "state": "Tennessee",
+      "effective_radius": 40
+    },
+    {
+      "id": 24,
+      "name": "nebraska",
+      "full_name": "Nebraska",
+      "motd": null,
+      "lat": "41.1999",
+      "lon": "-96.0727",
+      "state": "Nebraska",
+      "effective_radius": 150
+    },
+    {
+      "id": 75,
+      "name": "oregon-south",
+      "full_name": "Southern Oregon",
+      "motd": "Thank you for sending updates from your visits to our region's far-flung locations! Thanks to you, our region's map is growing!",
+      "lat": "43.21088",
+      "lon": "-123.343231",
+      "state": "Oregon",
+      "effective_radius": 75
+    },
+    {
+      "id": 111,
+      "name": "wisconsin",
+      "full_name": "Wisconsin",
+      "motd": "If a machine is no longer at a location, just remove it! No need to leave a comment saying it's gone.",
+      "lat": "43.169",
+      "lon": "-88.7271",
+      "state": "Wisconsin",
+      "effective_radius": 100
+    },
+    {
+      "id": 1,
+      "name": "portland",
+      "full_name": "Portland, Oregon",
+      "motd": "Some new users haven't received account confirmation emails. We made a change that should improve deliverability. Try resending the confirmation!",
+      "lat": "45.52341",
+      "lon": "-122.67561",
+      "state": "Oregon",
+      "effective_radius": 40
+    },
+    {
+      "id": 116,
+      "name": "buffalo",
+      "full_name": "Buffalo",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "42.887387",
+      "lon": "-78.874476",
+      "state": "New York",
+      "effective_radius": 10
+    },
+    {
+      "id": 115,
+      "name": "youngstown",
+      "full_name": "Youngstown, OH",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "41.097088",
+      "lon": "-80.646558",
+      "state": "Ohio",
+      "effective_radius": 10
+    },
+    {
+      "id": 94,
+      "name": "calgary",
+      "full_name": "Calgary",
+      "motd": "",
+      "lat": "51.040776",
+      "lon": "-114.086582",
+      "state": "Alberta",
+      "effective_radius": 35
+    },
+    {
+      "id": 108,
+      "name": "massachusetts",
+      "full_name": "Massachusetts",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "42.3135421",
+      "lon": "-71.1972432",
+      "state": "Massachusetts",
+      "effective_radius": 60
+    },
+    {
+      "id": 107,
+      "name": "oklahoma",
+      "full_name": "Oklahoma",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "35.454265",
+      "lon": "-97.517998",
+      "state": "Oklahoma",
+      "effective_radius": 180
+    },
+    {
+      "id": 101,
+      "name": "columbia-mo",
+      "full_name": "Columbia, MO",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "38.953489",
+      "lon": "-92.332618",
+      "state": "Missouri",
+      "effective_radius": 15
+    },
+    {
+      "id": 99,
+      "name": "raleigh-durham",
+      "full_name": "Raleigh-Durham",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "35.781788",
+      "lon": "-78.635508",
+      "state": "North Carolina",
+      "effective_radius": 35
+    },
+    {
+      "id": 97,
+      "name": "san-antonio",
+      "full_name": "San Antonio",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "29.411838",
+      "lon": "-98.498751",
+      "state": "Texas",
+      "effective_radius": 30
+    },
+    {
+      "id": 96,
+      "name": "columbia",
+      "full_name": "Columbia, SC",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "33.997431",
+      "lon": "-81.040253",
+      "state": "South Carolina",
+      "effective_radius": 30
+    },
+    {
+      "id": 95,
+      "name": "cincinnati",
+      "full_name": "Cincinnati",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "39.106006",
+      "lon": "-84.515924",
+      "state": "Ohio",
+      "effective_radius": 25
+    },
+    {
+      "id": 91,
+      "name": "atlanta",
+      "full_name": "Atlanta",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "33.76506",
+      "lon": "-84.394321",
+      "state": "Georgia",
+      "effective_radius": 25
+    },
+    {
+      "id": 87,
+      "name": "bend",
+      "full_name": "Bend, Oregon",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "44.065492",
+      "lon": "-121.316783",
+      "state": "Oregon",
+      "effective_radius": 25
+    },
+    {
+      "id": 86,
+      "name": "tucson",
+      "full_name": "Tucson",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "32.216341",
+      "lon": "-110.923791",
+      "state": "Arizona",
+      "effective_radius": 35
+    },
+    {
+      "id": 84,
+      "name": "ottawa",
+      "full_name": "Ottawa",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "45.389198",
+      "lon": "-75.688004",
+      "state": "Ontario",
+      "effective_radius": 45
+    },
+    {
+      "id": 55,
+      "name": "louisville",
+      "full_name": "Louisville",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "38.24547",
+      "lon": "-85.74285",
+      "state": "Kentucky",
+      "effective_radius": 35
+    },
+    {
+      "id": 45,
+      "name": "dc",
+      "full_name": "Washington, DC",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "38.9072",
+      "lon": "-77.03752",
+      "state": "Washington, DC",
+      "effective_radius": 25
+    },
+    {
+      "id": 15,
+      "name": "jacksonville",
+      "full_name": "Jacksonville",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "30.33234",
+      "lon": "-81.65923",
+      "state": "Florida",
+      "effective_radius": 45
+    },
+    {
+      "id": 14,
+      "name": "spokane",
+      "full_name": "Spokane",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "47.65881",
+      "lon": "-117.42776",
+      "state": "Washington",
+      "effective_radius": 35
+    },
+    {
+      "id": 9,
+      "name": "chicago",
+      "full_name": "Chicago",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "41.8776",
+      "lon": "-87.6337",
+      "state": "Illinois",
+      "effective_radius": 45
+    },
+    {
+      "id": 3,
+      "name": "seattle",
+      "full_name": "Seattle",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "47.60626",
+      "lon": "-122.33296",
+      "state": "Washington",
+      "effective_radius": 30
+    },
+    {
+      "id": 114,
+      "name": "hawaii",
+      "full_name": "Hawaii",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "21.393836",
+      "lon": "-157.924988",
+      "state": "Hawaii",
+      "effective_radius": 300
+    },
+    {
+      "id": 77,
+      "name": "birmingham",
+      "full_name": "Birmingham",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "33.520679",
+      "lon": "-86.81176",
+      "state": "Alabama",
+      "effective_radius": 25
+    },
+    {
+      "id": 73,
+      "name": "charlotte",
+      "full_name": "Charlotte, NC",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "35.22709",
+      "lon": "-80.84363",
+      "state": "North Carolina",
+      "effective_radius": 30
+    },
+    {
+      "id": 22,
+      "name": "iowa",
+      "full_name": "Iowa",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "41.5792",
+      "lon": "-93.697",
+      "state": "Iowa",
+      "effective_radius": 100
+    },
+    {
+      "id": 71,
+      "name": "tallahassee",
+      "full_name": "Tallahassee",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "30.43852",
+      "lon": "-84.28293",
+      "state": "Florida",
+      "effective_radius": 20
+    },
+    {
+      "id": 66,
+      "name": "asheville",
+      "full_name": "Asheville, NC",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "35.59512",
+      "lon": "-82.55247",
+      "state": "North Carolina",
+      "effective_radius": 20
+    },
+    {
+      "id": 57,
+      "name": "houston",
+      "full_name": "Houston",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "29.75994",
+      "lon": "-95.36921",
+      "state": "Texas",
+      "effective_radius": 35
+    },
+    {
+      "id": 53,
+      "name": "southflorida",
+      "full_name": "South Florida",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "25.65638",
+      "lon": "-80.38509",
+      "state": "Florida",
+      "effective_radius": 150
+    },
+    {
+      "id": 52,
+      "name": "tampabay",
+      "full_name": "Tampa Bay",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "27.9538",
+      "lon": "-82.4854",
+      "state": "Florida",
+      "effective_radius": 35
+    },
+    {
+      "id": 51,
+      "name": "baltimore",
+      "full_name": "Baltimore",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "39.29088",
+      "lon": "-76.61356",
+      "state": "Maryland",
+      "effective_radius": 20
+    },
+    {
+      "id": 50,
+      "name": "syracuse",
+      "full_name": "Syracuse",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "43.04813",
+      "lon": "-76.14817",
+      "state": "New York",
+      "effective_radius": 15
+    },
+    {
+      "id": 49,
+      "name": "lasvegas",
+      "full_name": "Las Vegas",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "36.2056",
+      "lon": "-115.2595",
+      "state": "Nevada",
+      "effective_radius": 25
+    },
+    {
+      "id": 47,
+      "name": "hudsonvalley",
+      "full_name": "Hudson Valley, NY",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "41.5085",
+      "lon": "-74.0327",
+      "state": "New York",
+      "effective_radius": 30
+    },
+    {
+      "id": 46,
+      "name": "charleston",
+      "full_name": "Charleston",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "32.77706",
+      "lon": "-79.93423",
+      "state": "South Carolina",
+      "effective_radius": 20
+    },
+    {
+      "id": 41,
+      "name": "rochester",
+      "full_name": "Rochester",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "43.16066",
+      "lon": "-77.61135",
+      "state": "New York",
+      "effective_radius": 15
+    },
+    {
+      "id": 40,
+      "name": "oceancity",
+      "full_name": "Ocean City, MD",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "38.33662",
+      "lon": "-75.08676",
+      "state": "Maryland",
+      "effective_radius": 6
+    },
+    {
+      "id": 32,
+      "name": "cleveland",
+      "full_name": "Cleveland",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "41.49927",
+      "lon": "-81.69606",
+      "state": "Ohio",
+      "effective_radius": 40
+    },
+    {
+      "id": 26,
+      "name": "stlouis",
+      "full_name": "St Louis",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "38.62678",
+      "lon": "-90.20072",
+      "state": "Missouri",
+      "effective_radius": 45
+    },
+    {
+      "id": 25,
+      "name": "columbus",
+      "full_name": "Columbus",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "39.9632",
+      "lon": "-83.0008",
+      "state": "Ohio",
+      "effective_radius": 30
+    },
+    {
+      "id": 130,
+      "name": "anchorage",
+      "full_name": "Anchorage",
+      "motd": "To help keep Pinball Map running, consider a donation! https://pinballmap.com/donate",
+      "lat": "61.217728",
+      "lon": "-149.892103",
+      "state": "Alaska",
+      "effective_radius": 40
+    },
+    {
+      "id": 129,
+      "name": "nsw",
+      "full_name": "New South Wales",
+      "motd": "To help keep Pinball Map running, consider a donation! https://pinballmap.com/donate",
+      "lat": "-33.873667",
+      "lon": "151.210548",
+      "state": "Australia",
+      "effective_radius": 300
+    },
+    {
+      "id": 128,
+      "name": "japan",
+      "full_name": "Japan",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "35.774988",
+      "lon": "139.582057",
+      "state": "Japan",
+      "effective_radius": 600
+    },
+    {
+      "id": 123,
+      "name": "tricities",
+      "full_name": "Tri-Cities Tennessee",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "36.328216",
+      "lon": "-82.349477",
+      "state": "Tennessee",
+      "effective_radius": 20
+    },
+    {
+      "id": 120,
+      "name": "savannah",
+      "full_name": "Savannah, GA",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "32.051616",
+      "lon": "-81.096467",
+      "state": "Georgia",
+      "effective_radius": 20
+    },
+    {
+      "id": 56,
+      "name": "kansascity",
+      "full_name": "Kansas City",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "39.10302",
+      "lon": "-94.60604",
+      "state": "Missouri",
+      "effective_radius": 75
+    },
+    {
+      "id": 58,
+      "name": "newjersey",
+      "full_name": "New Jersey",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "40.0857",
+      "lon": "-74.2267",
+      "state": "New Jersey",
+      "effective_radius": 45
+    },
+    {
+      "id": 59,
+      "name": "detroit",
+      "full_name": "Detroit",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "42.3326",
+      "lon": "-83.0475",
+      "state": "Michigan",
+      "effective_radius": 50
+    },
+    {
+      "id": 54,
+      "name": "phoenix",
+      "full_name": "Phoenix",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "33.4498",
+      "lon": "-112.0763",
+      "state": "Arizona",
+      "effective_radius": 45
+    },
+    {
+      "id": 33,
+      "name": "florida-central",
+      "full_name": "Central Florida",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "28.53916",
+      "lon": "-81.38056",
+      "state": "Florida",
+      "effective_radius": 75
+    },
+    {
+      "id": 21,
+      "name": "albuquerque",
+      "full_name": "Albuquerque",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "35.1108",
+      "lon": "-106.6134",
+      "state": "New Mexico",
+      "effective_radius": 30
+    },
+    {
+      "id": 74,
+      "name": "west-virginia",
+      "full_name": "West Virginia",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "38.642414",
+      "lon": "-80.613617",
+      "state": "West Virginia",
+      "effective_radius": 80
+    },
+    {
+      "id": 48,
+      "name": "utah",
+      "full_name": "Utah",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "40.64782",
+      "lon": "-111.90915",
+      "state": "Utah",
+      "effective_radius": 150
+    },
+    {
+      "id": 16,
+      "name": "sacramento",
+      "full_name": "Sacramento",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "38.58184",
+      "lon": "-121.49645",
+      "state": "California",
+      "effective_radius": 60
+    },
+    {
+      "id": 18,
+      "name": "dfw",
+      "full_name": "Dallas Fort Worth",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "32.78156",
+      "lon": "-96.80505",
+      "state": "Texas",
+      "effective_radius": 80
+    },
+    {
+      "id": 17,
+      "name": "nyc",
+      "full_name": "New York City",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "40.71535",
+      "lon": "-73.9825",
+      "state": "New York",
+      "effective_radius": 25
+    },
+    {
+      "id": 132,
+      "name": "arkansas",
+      "full_name": "Arkansas",
+      "motd": "To help keep Pinball Map running, consider a donation! https://pinballmap.com/donate",
+      "lat": "34.734193",
+      "lon": "-92.271683",
+      "state": "Arkansas",
+      "effective_radius": 200
+    },
+    {
+      "id": 79,
+      "name": "new-hampshire",
+      "full_name": "New Hampshire",
+      "motd": "If you have a keen eye for clean data, and want to be an admin for this region, please contact us!",
+      "lat": "43.6945184",
+      "lon": "-72.568528",
+      "state": "New Hampshire",
+      "effective_radius": 80
+    },
+    {
+      "id": 104,
+      "name": "vermont",
+      "full_name": "Vermont",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "44.47644",
+      "lon": "-73.21002",
+      "state": "Vermont",
+      "effective_radius": 80
+    },
+    {
+      "id": 70,
+      "name": "maine",
+      "full_name": "Maine",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "43.659142",
+      "lon": "-70.256653",
+      "state": "Maine",
+      "effective_radius": 80
+    },
+    {
+      "id": 23,
+      "name": "austin",
+      "full_name": "Austin",
+      "motd": "Let's go update the machine conditions at the locations around town!",
+      "lat": "30.26746",
+      "lon": "-97.74455",
+      "state": "Texas",
+      "effective_radius": 70
+    },
+    {
+      "id": 5,
+      "name": "la",
+      "full_name": "Los Angeles",
+      "motd": "Pinball Map is more popular than ever, and our costs have gone up! We would love some help. Please become a Pinball Map Patron! https://www.patreon.com/pinballmap",
+      "lat": "34.0519",
+      "lon": "-118.2498",
+      "state": "California",
+      "effective_radius": 85
+    },
+    {
+      "id": 135,
+      "name": "michigan-north",
+      "full_name": "North Michigan",
+      "motd": "To help keep Pinball Map running, consider a donation! https://pinballmap.com/donate",
+      "lat": "44.244690924497",
+      "lon": "-85.016816958414",
+      "state": "Michigan",
+      "effective_radius": 70
+    },
+    {
+      "id": 136,
+      "name": "michigan-sw",
+      "full_name": "SW Michigan",
+      "motd": "To help keep Pinball Map running, consider a donation! https://pinballmap.com/donate",
+      "lat": "42.442180986478",
+      "lon": "-85.312674199415",
+      "state": "Michigan",
+      "effective_radius": 70
+    },
+    {
+      "id": 8,
+      "name": "bayarea",
+      "full_name": "Bay Area",
+      "motd": "We now have operator email addresses for about 75% of the pinball machines in the Bay Area.  So when writing machine condition notes, remember that a wonderful person will get an email with the comments tomorrow.  Please be friendly!",
+      "lat": "37.7616",
+      "lon": "-122.3905",
+      "state": "California",
+      "effective_radius": 60
+    },
+    {
+      "id": 133,
+      "name": "uk",
+      "full_name": "United Kingdom",
+      "motd": "To help keep Pinball Map running, consider a donation! https://pinballmap.com/donate",
+      "lat": "51.50642",
+      "lon": "-0.12721",
+      "state": "Great Britain",
+      "effective_radius": 150
+    },
+    {
+      "id": 19,
+      "name": "pittsburgh",
+      "full_name": "Pittsburgh",
+      "motd": "Check the Events page for tournaments and leagues! Open and women's leagues start in September. https://www.pinballmap.com/pittsburgh/events",
+      "lat": "40.44081",
+      "lon": "-79.99645",
+      "state": "Pennsylvania",
+      "effective_radius": 50
+    },
+    {
+      "id": 90,
+      "name": "delaware",
+      "full_name": "Delaware",
+      "motd": "Welcome silverball enthusiasts to the Delaware region for Pinball Map! Please help add/update machines and locations. Help keep pinball alive in Delaware! Please LIKE and Follow First State Flippers on FB at https://www.facebook.com/1ststateflippers/",
+      "lat": "39.013516",
+      "lon": "-75.521529",
+      "state": "Delaware",
+      "effective_radius": 40
+    },
+    {
+      "id": 131,
+      "name": "finland",
+      "full_name": "Finland",
+      "motd": "For pinball discussions (mostly in Finnish) head over to the Finnish pinball hub http://flipperit.net/. <BR>Consider also joining the association for Finnish pinball players FLIPP: http://www.flipp.fi/.",
+      "lat": "61.403645",
+      "lon": "25.444844",
+      "state": "Finland",
+      "effective_radius": 100
+    }
+  ]
+}
